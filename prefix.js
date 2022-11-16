@@ -1,5 +1,6 @@
 const prefix = function (strs) {
   // check for invalid argument
+  
   // find the max prefix length
   // make a loop based on max prefix
   // find the first element of strs
